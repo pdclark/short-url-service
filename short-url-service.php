@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Short URL Service
-Plugin URI: http://pdclark.com
+Plugin URI: http://github.com/10up/short-url-service
 Description: Provide service for generating URLs with <a href="http://wordpress.org/plugins/shorten-url/">Short URL</a> plugin. <a href="admin-ajax.php?action=shorten&url=http%3A%2F%2Fexample.com" target="_blank">View example query</a>.
 Version: 1.0
-Author: Brainstorm Media
-Author URI: http://brainstormmedia.com
+Author: Paul Clark, 10up
+Author URI: http://pdclark.com
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
